@@ -1,27 +1,33 @@
 
 [![Build Status](https://travis-ci.com/TralahM/TralahM.github.io.svg?branch=master)](https://travis-ci.com/TralahM/TralahM.github.io)
+[![Build status](https://ci.appveyor.com/api/projects/status/yvvmq5hyf7hj743a/branch/master?svg=true)](https://ci.appveyor.com/project/TralahM/TralahM.github.io/branch/master)
 [![Documentation Status](https://readthedocs.org/projects/TralahM.github.io/badge/?version=latest)](https://TralahM.github.io.readthedocs.io/en/latest/?badge=latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLV2-green.svg)](https://opensource.org/licenses/GPLV2)
 [![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
 [![Views](http://hits.dwyl.io/TralahM/TralahM.github.io.svg)](http://dwyl.io/TralahM/TralahM.github.io)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/TralahM/TralahM.github.io/pull/)
 [![GitHub pull-requests](https://img.shields.io/badge/Issues-pr-red.svg?style=flat-square)](https://github.com/TralahM/TralahM.github.io/pull/)
 [![Language](https://img.shields.io/badge/Language-ruby-701516.svg)](https://github.com/TralahM)
+<img title="Watching" src="https://img.shields.io/github/watchers/TralahM/TralahM.github.io?label=Watchers&color=blue&style=flat-square">
+<img title="Stars" src="https://img.shields.io/github/stars/TralahM/TralahM.github.io?color=red&style=flat-square">
+<img title="Forks" src="https://img.shields.io/github/forks/TralahM/TralahM.github.io?color=green&style=flat-square">
+<noscript><a href="https://liberapay.com/TralahM/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 # TralahM.github.io.
 
 
-[![TralahTek](https://img.shields.io/badge/Organization-TralahTek-black.svg?style=for-the-badge)](https://github.com/TralahTek)
-[![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
-[![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
+[![TralahTek](https://img.shields.io/badge/Organization-TralahTek-black.svg?style=for-the-badge&logo=github)](https://github.com/TralahTek)
+[![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge&logo=github)](https://github.com/TralahM)
+[![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge&logo=github)](https://github.com/TralahM)
 
 # Documentation
 
 [![Documentation](https://img.shields.io/badge/Docs-TralahM.github.io-blue.svg?style=for-the-badge)](https://github.com/TralahM/TralahM.github.io)
 
-# How to Install
-```bash
+# Installation
+```console
 # In terminal do:
+$
 ```
 
 ## Building from Source for Developers
@@ -47,11 +53,14 @@ $ cd TralahM.github.io
 
 # Self-Promotion
 
-[![TralahM](https://img.shields.io/badge/Twitter-TralahM-blue.svg?style=for-the-badge)](https://twitter.com/TralahM/?target=_blank)
-[![TralahM](https://img.shields.io/badge/Github-TralahM-black.svg?style=for-the-badge)](https://github.com/TralahM/?target=_blank)
-[![TralahM](https://img.shields.io/badge/Kaggle-TralahM-purple.svg?style=for-the-badge)](https://kaggle.com/TralahM/?target=_blank)
-[![TralahM](https://img.shields.io/badge/LinkedIn-TralahM-red.svg?style=for-the-badge)](https://linkedin.com/in/TralahM/?target=_blank)
-[![Blog](https://img.shields.io/badge/Blog-tralahm.tralahtek.com-blue.svg?style=for-the-badge)](https://tralahm.tralahtek.com/?target=_blank)
-[![TralahTek](https://img.shields.io/badge/Organization-TralahTek-cyan.svg?style=for-the-badge)](https://tralahtek.com/?target=_blank)
+[![](https://img.shields.io/badge/Github-TralahM-green?style=for-the-badge&logo=github)](https://github.com/TralahM)
+[![](https://img.shields.io/badge/Twitter-%40tralahtek-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TralahM)
+[![TralahM](https://img.shields.io/badge/Kaggle-TralahM-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
+[![TralahM](https://img.shields.io/badge/LinkedIn-TralahM-white.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
+
+
+[![Blog](https://img.shields.io/badge/Blog-tralahm.tralahtek.com-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.tralahtek.com)
+
+[![TralahTek](https://img.shields.io/badge/Organization-TralahTek-cyan.svg?style=for-the-badge)](https://org.tralahtek.com)
 
 
