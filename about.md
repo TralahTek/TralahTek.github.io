@@ -13,7 +13,7 @@ Re-engineering IT systems to Service-Oriented Architectures that preserve existi
 
 <br/>
 
-Designing, writing, and testing <b>algorithms</b> also forms a major part of my job besides maintaining and refactoring existing code bases, leading a development team and attending management and client meetings.
+Designing, writing, and testing <b>algorithms</b> also forms a major part of my responsibility besides maintaining and refactoring existing code bases, leading a development team and attending management and client meetings.
 
 <br/>
 I love Open Source and the philosophy of community driven software development and also contribute to Open Source projects whenever I can.
@@ -42,7 +42,7 @@ The point at which they will is when something bad happens, probably some progra
 When the event occurs,politician will rise and try to do something about it, probably some regulation, i.e legislate. Tell us what languages we have to use, what frameworks we have to use, what books we must read, what certifications we will require.
 
 In order to be prepared for this eventuality we need a set of ethics, codes of conduct, a professional ethic.
-It is what the doctors,engineers, et.al professional did.
+It is what the doctors,engineers, et.al professionals did.
 
 
 
